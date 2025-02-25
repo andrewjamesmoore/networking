@@ -1,4 +1,4 @@
-# Cloud Networking: High-Level Overview
+# Cloud Networking
 
 Cloud networking encompasses the design, implementation, and management of network infrastructure and services in a cloud computing environment. It involves leveraging cloud-based resources to create flexible, scalable, and cost-effective network solutions.
 
