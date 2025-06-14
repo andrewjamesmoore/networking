@@ -63,7 +63,3 @@ Network services are applications and protocols that provide essential functiona
   - **SSH (Secure Shell):** Provides secure command-line access to remote systems (port 22).
   - **RDP (Remote Desktop Protocol):** Provides graphical remote access to Windows systems (port 3389).
 - **Security Considerations:** Use strong passwords, multi-factor authentication, and VPNs to secure remote access connections.
-
----
-
-Understanding network services and their associated protocols is essential for network administration, security, and troubleshooting.
